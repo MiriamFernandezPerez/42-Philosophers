@@ -1,5 +1,6 @@
 
-# 🍽️ Proyecto Philosophers – Problema de los Filósofos Comensales
+# 🍽️ Proyecto Philosophers 
+## *Problema de los Filósofos Comensales*
 
 Una implementación del clásico **problema de los filósofos comensales** en C, desarrollado en el contexto de la Escuela 42. El fin es practicar **programación concurrente**, **sincronización** y manejo de **hilos y mutexes**.
 
